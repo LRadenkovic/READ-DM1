@@ -1,0 +1,6 @@
+prefix: "ATCCCGGGCCCGCGGTACGAAGACG"
+suffix: "GAGACCGTACCGTCGACTGCAGAAT"
+motif: "CAG"
+tolerance: "{e<=5}"
+cores: 2
+limit_nt: 150
